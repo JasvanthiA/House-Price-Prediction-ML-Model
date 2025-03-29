@@ -1,4 +1,4 @@
-# Excel Data Analysis Project
+# House Price Prediction Project
 
 This project performs data analysis on housing data, including data preprocessing, exploratory data analysis, and machine learning model implementations for price prediction.
 
